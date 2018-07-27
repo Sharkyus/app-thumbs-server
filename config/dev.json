@@ -1,0 +1,9 @@
+{
+  "db": {
+    "user": "app_thumbs_user",
+    "password": "h4sQu94MNEhnsewS",
+    "name": "app_thumbs"
+  },
+  "port": 8082,
+  "initialImagesCount": 1000
+}
