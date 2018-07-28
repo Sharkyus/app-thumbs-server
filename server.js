@@ -33,6 +33,9 @@ class Server{
             }
         });
 
+        app.use(express.static('../front/dist'));
+        app.use(express.static('../front/static'));
+
         app.use(bodyParser.json());
 
         return app;
